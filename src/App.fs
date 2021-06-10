@@ -57,7 +57,7 @@ document.body.appendChild(firstDiv)  |> ignore
 let table = document.getElementById("tableid");
 let tr = document.createElement("tr")
 let th1 = document.createElement("th")
-let th2 = document.createElement("tth")
+let th2 = document.createElement("th")
 let th3 = document.createElement("th")
 let th4 = document.createElement("th")
 let th5 = document.createElement("th")
